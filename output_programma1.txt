@@ -1,0 +1,60 @@
+
+Il confronto avviene su due corpus ( BLOG_MASCHILI .txt , BLOG_FEMMINILI .txt) i quali contengono: blog scritti da autori di sesso maschile e blog scritti da autori di sesso femminile.
+
+- CONFRONTI BASILARI -
+
+BLOG_MASCHILI 			BLOG_FEMMINILI 
+
+Frasi file1 --> 349 		Frasi file2 --> 319
+Token file1 --> 7325 		Token file2 7318
+Media frasi file1 --> 20 	Media frasi file2 --> 22
+Media parole file1 --> 4 	Media parole file2 --> 4
+
+
+- Il numero totale delle frasi scritte nei BLOG_MASCHILI è maggiore di quelle scritte nei BLOG_FEMMINILI
+- I BLOG_MASCHILI usano un numero di token maggiore rispetto ai  BLOG_FEMMINILI
+- I BLOG_FEMMINILI tendono ad avere una lunghezza media delle frasi, in termini di token, più ampia rispetto ai BLOG_MASCHILI
+- Lunghezza media di parole in termini di caratteri di entrambi i corpus è uguale
+
+
+- INCREMENTO DEL VOCABOLARIO OGNI 1000 TOKEN -
+
+BLOG_MASCHILI 		BLOG_FEMMINILI
+ - 400                  - 458                 
+ - 720                  - 812                 
+ - 1005                 - 1080                
+ - 1246                 - 1306                
+ - 1479                 - 1529                
+ - 1716                 - 1771                
+ - 1938                 - 2011                
+ - 2007                 - 2066                
+
+
+- INCREMENTO DEGLI HAPAX OGNI 1000 TOKEN - 
+
+BLOG_MASCHILI 		BLOG_FEMMINILI
+ - 271                  - 337                 
+ - 468                  - 571                 
+ - 648                  - 720                 
+ - 800                  - 832                 
+ - 945                  - 961                 
+ - 1081                 - 1105                
+ - 1222                 - 1260                
+ - 1267                 - 1281                
+
+
+- TYPE TOKEN RATIO PRIMI 5000 TOKEN -
+
+BLOG_MASCHILI  -->    0.30 
+BLOG_FEMMINILI  -->    0.31 
+
+- DISTRIBUZIONE PERCENTUALE SOSTANTIVI AGGETTIVI VERBI E PRONOMI -
+
+BLOG_MASCHILI  -->   SOSTANTIVI =  25.24 % 	 AGGETTIVI =  7.85 % 	 VERBI =  14.88 % 	 PRONOMI =  5.92 %
+BLOG_FEMMINILI  -->   SOSTANTIVI =  26.66 % 	 AGGETTIVI =  7.65 % 	 VERBI =  14.07 % 	 PRONOMI =  5.10 %
+
+
+- MEDIA PER FRASE DEI SOSTANTIVI AGGETTIVI VERBI E PRONOMI -
+
+BLOG_MASCHILI  -->   SOSTANTIVI =  5 	 AGGETTIVI =  2 	 VERBI =  3 	 PRONOMI =  1
+BLOG_FEMMINILI  -->   SOSTANTIVI =  6 	 AGGETTIVI =  2 	 VERBI =  3 	 PRONOMI =  1

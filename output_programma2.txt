@@ -1,0 +1,272 @@
+
+Il confronto avviene su due corpus ( BLOG_MASCHILI .txt , BLOG_FEMMINILI .txt) i quali contengono: blog scritti da autori di sesso maschile e blog scritti da autori di sesso femminile.
+
+
+
+- I 20 TOKEN PIù FREQUENTI (NO PUNTEGGIATURA) -
+
+BLOG_MASCHILI 						BLOG_FEMMINILI
+ Token --> the                  Freq --> 362                  Token --> the                  Freq --> 431                 
+ Token --> to                   Freq --> 204                  Token --> a                    Freq --> 195                 
+ Token --> and                  Freq --> 185                  Token --> of                   Freq --> 194                 
+ Token --> a                    Freq --> 181                  Token --> and                  Freq --> 187                 
+ Token --> of                   Freq --> 175                  Token --> to                   Freq --> 179                 
+ Token --> is                   Freq --> 134                  Token --> in                   Freq --> 138                 
+ Token --> in                   Freq --> 114                  Token --> is                   Freq --> 98                  
+ Token --> you                  Freq --> 80                   Token --> for                  Freq --> 67                  
+ Token --> I                    Freq --> 73                   Token --> The                  Freq --> 60                  
+ Token --> it                   Freq --> 63                   Token --> was                  Freq --> 54                  
+ Token --> for                  Freq --> 57                   Token --> I                    Freq --> 54                  
+ Token --> are                  Freq --> 56                   Token --> with                 Freq --> 52                  
+ Token --> with                 Freq --> 52                   Token --> that                 Freq --> 50                  
+ Token --> on                   Freq --> 50                   Token --> it                   Freq --> 50                  
+ Token --> was                  Freq --> 47                   Token --> you                  Freq --> 49                  
+ Token --> The                  Freq --> 44                   Token --> on                   Freq --> 48                  
+ Token --> as                   Freq --> 40                   Token --> are                  Freq --> 40                  
+ Token --> not                  Freq --> 39                   Token --> as                   Freq --> 39                  
+ Token --> have                 Freq --> 37                   Token --> we                   Freq --> 36                  
+ Token --> that                 Freq --> 34                   Token --> not                  Freq --> 34                  
+
+
+- I 20 AGGETTIVI PIù FREQUENTI -
+
+BLOG_MASCHILI 						BLOG_FEMMINILI
+ Token --> best                 Freq --> 17                   Token --> great                Freq --> 23                  
+ Token --> many                 Freq --> 15                   Token --> more                 Freq --> 18                  
+ Token --> other                Freq --> 13                   Token --> best                 Freq --> 14                  
+ Token --> few                  Freq --> 12                   Token --> many                 Freq --> 12                  
+ Token --> more                 Freq --> 10                   Token --> first                Freq --> 10                  
+ Token --> beautiful            Freq --> 10                   Token --> small                Freq --> 9                   
+ Token --> perfect              Freq --> 8                    Token --> famous               Freq --> 9                   
+ Token --> great                Freq --> 8                    Token --> unique               Freq --> 8                   
+ Token --> first                Freq --> 8                    Token --> new                  Freq --> 8                   
+ Token --> most                 Freq --> 7                    Token --> other                Freq --> 7                   
+ Token --> hot                  Freq --> 7                    Token --> last                 Freq --> 7                   
+ Token --> whole                Freq --> 6                    Token --> interesting          Freq --> 7                   
+ Token --> small                Freq --> 6                    Token --> spanish              Freq --> 6                   
+ Token --> unique               Freq --> 5                    Token --> old                  Freq --> 6                   
+ Token --> sure                 Freq --> 5                    Token --> little               Freq --> 6                   
+ Token --> same                 Freq --> 5                    Token --> few                  Freq --> 6                   
+ Token --> only                 Freq --> 5                    Token --> different            Freq --> 6                   
+ Token --> good                 Freq --> 5                    Token --> beautiful            Freq --> 6                   
+ Token --> full                 Freq --> 5                    Token --> sure                 Freq --> 5                   
+ Token --> favorite             Freq --> 5                    Token --> ski                  Freq --> 5                   
+
+
+- I 20 VERBI PIù FREQUENTI -
+
+BLOG_MASCHILI 						BLOG_FEMMINILI
+ Token --> is                   Freq --> 134                  Token --> is                   Freq --> 98                  
+ Token --> are                  Freq --> 56                   Token --> was                  Freq --> 54                  
+ Token --> was                  Freq --> 47                   Token --> are                  Freq --> 40                  
+ Token --> be                   Freq --> 33                   Token --> be                   Freq --> 28                  
+ Token --> have                 Freq --> 25                   Token --> were                 Freq --> 22                  
+ Token --> were                 Freq --> 21                   Token --> have                 Freq --> 20                  
+ Token --> has                  Freq --> 16                   Token --> has                  Freq --> 18                  
+ Token --> had                  Freq --> 16                   Token --> had                  Freq --> 15                  
+ Token --> see                  Freq --> 14                   Token --> take                 Freq --> 9                   
+ Token --> have                 Freq --> 12                   Token --> get                  Freq --> 9                   
+ Token --> do                   Freq --> 11                   Token --> been                 Freq --> 9                   
+ Token --> got                  Freq --> 9                    Token --> visit                Freq --> 8                   
+ Token --> get                  Freq --> 9                    Token --> have                 Freq --> 8                   
+ Token --> did                  Freq --> 9                    Token --> enjoy                Freq --> 8                   
+ Token --> traveling            Freq --> 8                    Token --> explore              Freq --> 7                   
+ Token --> been                 Freq --> 8                    Token --> try                  Freq --> 6                   
+ Token --> went                 Freq --> 7                    Token --> do                   Freq --> 6                   
+ Token --> visiting             Freq --> 7                    Token --> do                   Freq --> 6                   
+ Token --> take                 Freq --> 7                    Token --> did                  Freq --> 6                   
+ Token --> find                 Freq --> 7                    Token --> offer                Freq --> 5                   
+
+
+- I 10 POS TAG PIù FREQUENTI -
+
+BLOG_MASCHILI 						BLOG_FEMMINILI
+ PoS --> NN                   Freq --> 902                  Token --> NN                   Freq --> 978                 
+ PoS --> IN                   Freq --> 827                  Token --> IN                   Freq --> 866                 
+ PoS --> DT                   Freq --> 726                  Token --> DT                   Freq --> 849                 
+ PoS --> NNP                  Freq --> 536                  Token --> NNP                  Freq --> 594                 
+ PoS --> JJ                   Freq --> 515                  Token --> JJ                   Freq --> 506                 
+ PoS --> NNS                  Freq --> 406                  Token --> NNS                  Freq --> 374                 
+ PoS --> .                    Freq --> 350                  Token --> .                    Freq --> 320                 
+ PoS --> RB                   Freq --> 336                  Token --> RB                   Freq --> 298                 
+ PoS --> PRP                  Freq --> 326                  Token --> ,                    Freq --> 285                 
+ PoS --> ,                    Freq --> 325                  Token --> PRP                  Freq --> 272                 
+
+
+- I 10 TRIGRAMMI DI POS TAG PIù FREQUENTI -
+
+BLOG_MASCHILI 								BLOG_FEMMINILI
+ Trigramma --> IN  - DT  - NN                   Freq --> 145                   Trigramma --> IN  - DT  - NN                   Freq --> 157                 
+ Trigramma --> DT  - JJ  - NN                   Freq --> 119                   Trigramma --> DT  - JJ  - NN                   Freq --> 135                 
+ Trigramma --> DT  - NN  - IN                   Freq --> 93                    Trigramma --> DT  - NN  - IN                   Freq --> 124                 
+ Trigramma --> NN  - IN  - DT                   Freq --> 69                    Trigramma --> NN  - IN  - DT                   Freq --> 109                 
+ Trigramma --> IN  - DT  - JJ                   Freq --> 66                    Trigramma --> IN  - DT  - JJ                   Freq --> 82                  
+ Trigramma --> JJ  - NN  - IN                   Freq --> 55                    Trigramma --> NNP - NNP - NNP                  Freq --> 59                  
+ Trigramma --> NN  - IN  - NNP                  Freq --> 46                    Trigramma --> JJ  - NN  - IN                   Freq --> 56                  
+ Trigramma --> IN  - NNP - NNP                  Freq --> 46                    Trigramma --> IN  - DT  - NNP                  Freq --> 56                  
+ Trigramma --> DT  - NN  - .                    Freq --> 46                    Trigramma --> NN  - IN  - NNP                  Freq --> 51                  
+ Trigramma --> JJ  - NN  - .                    Freq --> 35                    Trigramma --> DT  - NNP - NNP                  Freq --> 51                  
+
+
+- I 10 BIGRAMMI DI POS TAG CON PROBABILITà CONGIUNTA MASSIMA -
+
+BLOG_MASCHILI 									BLOG_FEMMINILI
+ Bigramma --> DT  - NN                    P.Congiunta--> 4.55 %                     Bigramma --> IN  - DT                    P.Congiunta --> 4.99 %                   
+ Bigramma --> IN  - DT                    P.Congiunta--> 4.01 %                     Bigramma --> DT  - NN                    P.Congiunta --> 4.91 %                   
+ Bigramma --> NN  - IN                    P.Congiunta--> 3.09 %                     Bigramma --> NN  - IN                    P.Congiunta --> 3.74 %                   
+ Bigramma --> DT  - JJ                    P.Congiunta--> 2.77 %                     Bigramma --> DT  - JJ                    P.Congiunta --> 2.99 %                   
+ Bigramma --> JJ  - NN                    P.Congiunta--> 2.69 %                     Bigramma --> JJ  - NN                    P.Congiunta --> 2.91 %                   
+ Bigramma --> NNP - NNP                   P.Congiunta--> 2.29 %                     Bigramma --> NNP - NNP                   P.Congiunta --> 2.77 %                   
+ Bigramma --> NN  - .                     P.Congiunta--> 1.75 %                     Bigramma --> IN  - NNP                   P.Congiunta --> 1.75 %                   
+ Bigramma --> JJ  - NNS                   P.Congiunta--> 1.60 %                     Bigramma --> NN  - .                     P.Congiunta --> 1.63 %                   
+ Bigramma --> TO  - VB                    P.Congiunta--> 1.57 %                     Bigramma --> TO  - VB                    P.Congiunta --> 1.54 %                   
+ Bigramma --> IN  - NNP                   P.Congiunta--> 1.52 %                     Bigramma --> JJ  - NNS                   P.Congiunta --> 1.37 %                   
+
+
+- I 10 BIGRAMMI DI POS TAG CON PROBABILITà CONDIZIONATA MASSIMA -
+
+BLOG_MASCHILI 									BLOG_FEMMINILI
+ Bigramma --> NN  - NN                    P.Condizionata --> 1.52 %                     Bigramma --> NN  - NN                    P.Condizionata  --> 1.79 %                   
+ Bigramma --> NN  - IN                    P.Condizionata --> 1.39 %                     Bigramma --> NN  - IN                    P.Condizionata  --> 1.58 %                   
+ Bigramma --> IN  - NN                    P.Condizionata --> 1.39 %                     Bigramma --> IN  - NN                    P.Condizionata  --> 1.58 %                   
+ Bigramma --> IN  - IN                    P.Condizionata --> 1.27 %                     Bigramma --> NN  - DT                    P.Condizionata  --> 1.55 %                   
+ Bigramma --> NN  - DT                    P.Condizionata --> 1.22 %                     Bigramma --> DT  - NN                    P.Condizionata  --> 1.55 %                   
+ Bigramma --> DT  - NN                    P.Condizionata --> 1.22 %                     Bigramma --> IN  - IN                    P.Condizionata  --> 1.40 %                   
+ Bigramma --> IN  - DT                    P.Condizionata --> 1.12 %                     Bigramma --> IN  - DT                    P.Condizionata  --> 1.37 %                   
+ Bigramma --> DT  - IN                    P.Condizionata --> 1.12 %                     Bigramma --> DT  - IN                    P.Condizionata  --> 1.37 %                   
+ Bigramma --> DT  - DT                    P.Condizionata --> 0.98 %                     Bigramma --> DT  - DT                    P.Condizionata  --> 1.35 %                   
+ Bigramma --> NNP - NN                    P.Condizionata --> 0.90 %                     Bigramma --> NNP - NN                    P.Condizionata  --> 1.08 %                   
+
+
+- I 2O SOSTANTIVI PIù FREQUENTI, E PER OGNIUNO I SUOI AGGETTIVI ORDINATI IN BASE ALLA LOCAL MUTUAL INFORMATION -
+
+
+IL NUMERO DEI SOSTANTIVI TOTALI é 20 MA NE VERRANO STAMPATI SOLO 17 PERCHè 3 SOSTANTIVI SONO PRESENTI NEI 10 SOSTANTIVI PIù FREQUENTI DI ENTRAMBI I CORPUS. QUESTI SOSTANTIVI SONO:
+- time
+- city
+- way
+
+		BLOG_MASCHILI ------------------------------------------------------ BLOG_FEMMINILI
+
+			---------------------------SOST: town ---------------------------
+ 
+AGG --> coastal    LMI --> 9.66868804275 				AGG --> special    LMI --> 7.79283958098
+ 
+AGG --> actual     LMI --> 8.66868804275 				AGG --> ski        LMI --> 6.3778020817
+
+			---------------------------SOST: city ---------------------------
+ 
+AGG --> incomprehensible LMI --> 8.51668494931 				AGG --> entire     LMI --> 7.34538060401
+ 
+AGG --> vibrant    LMI --> 7.51668494931 				AGG --> beautiful  LMI --> 6.34538060401
+
+			---------------------------SOST: family ---------------------------
+ 
+AGG --> entire     LMI --> 8.13817332606 				AGG --> entire     LMI --> 9.6673086989
+
+			---------------------------SOST: night ---------------------------
+ 
+AGG --> first      LMI --> 7.66868804275 				AGG --> last       LMI --> 6.70795068339
+
+			---------------------------SOST: people ---------------------------
+ 
+AGG --> normal     LMI --> 9.25365054348 				AGG --> notable    LMI --> 9.6673086989
+ 
+AGG --> fewer      LMI --> 9.25365054348 				AGG --> chapel     LMI --> 8.6673086989
+ 
+AGG --> other      LMI --> 5.55321082533 				AGG --> rural      LMI --> 8.6673086989
+ 
+AGG --> many       LMI --> 5.34675994787 				AGG --> best       LMI --> 5.76041810329
+
+			---------------------------SOST: country ---------------------------
+ 
+AGG --> fascinating LMI --> 8.66868804275 				AGG --> foreign    LMI --> 9.3778020817
+
+			---------------------------SOST: views ---------------------------
+ 
+AGG --> stunning   LMI --> 11.8386130442 				AGG --> degree     LMI --> 9.51530560545
+
+			---------------------------SOST: area ---------------------------
+ 
+AGG --> second     LMI --> 8.13817332606 				AGG --> crazy      LMI --> 10.2522711996
+ 
+AGG --> white      LMI --> 7.13817332606 				AGG --> Many       LMI --> 10.2522711996
+
+			---------------------------SOST: trip ---------------------------
+ 
+AGG --> short      LMI --> 7.25365054348 				AGG --> amazing    LMI --> 7.19337751056
+
+			---------------------------SOST: water ---------------------------
+ 
+AGG --> clean      LMI --> 10.5166849493 				AGG --> hot        LMI --> 6.93034310473
+
+			---------------------------SOST: tour ---------------------------
+ 
+AGG --> guided     LMI --> 9.25365054348 				AGG --> private    LMI --> 9.1367939822
+ 
+AGG --> wonderful  LMI --> 9.25365054348 				AGG --> previous   LMI --> 9.1367939822
+ 
+AGG --> different  LMI --> 7.93172244859 				AGG --> independent LMI --> 8.1367939822
+
+			---------------------------SOST: place ---------------------------
+ 
+AGG --> awesome    LMI --> 8.8386130442 				AGG --> peaceful   LMI --> 10.5153056055
+ 
+AGG --> key        LMI --> 7.8386130442 				AGG --> incredible LMI --> 8.19337751056
+ 
+AGG --> historical LMI --> 7.25365054348 				AGG --> only       LMI --> 7.51530560545
+
+			---------------------------SOST: way ---------------------------
+ 
+AGG --> fun        LMI --> 7.75115020295 				AGG --> spanish    LMI --> 6.55183148148
+ 
+AGG --> ideal      LMI --> 7.16618770223 				AGG --> unique     LMI --> 6.1367939822
+
+			---------------------------SOST: time ---------------------------
+ 
+AGG --> Sunset     LMI --> 9.03125812214 				AGG --> mean       LMI --> 8.74977085909
+ 
+AGG --> same       LMI --> 6.70933002725 				AGG --> free       LMI --> 7.74977085909
+ 
+AGG --> perfect    LMI --> 5.70933002725 				AGG --> perfect    LMI --> 6.4278427642
+
+			---------------------------SOST: world ---------------------------
+ 
+AGG --> incredible LMI --> 8.03125812214 				AGG --> surreal    LMI --> 9.25227119962
+
+			---------------------------SOST: day ---------------------------
+ 
+AGG --> sunny      LMI --> 9.03125812214 				AGG --> next       LMI --> 8.6673086989
+ 
+AGG --> third      LMI --> 9.03125812214 				AGG --> full       LMI --> 7.93034310473
+
+			---------------------------SOST: beaches ---------------------------
+ 
+AGG --> secluded   LMI --> 9.13817332606 				AGG --> secluded   LMI --> 9.83723370034
+ 
+AGG --> sandy      LMI --> 8.13817332606 				AGG --> small      LMI --> 7.6673086989
+
+
+- I 20 NOMI PROPRI DI LUOGO PIù FREQUENTI -
+
+BLOG_MASCHILI : 				BLOG_FEMMINILI :
+ London              Freq --> 16                    California          Freq --> 7                   
+ Nicaragua           Freq --> 6                     Cairo               Freq --> 6                   
+ Granada             Freq --> 6                     Spain               Freq --> 6                   
+ Dublin              Freq --> 5                     North Korea         Freq --> 6                   
+ Sydney              Freq --> 5                     Europe              Freq --> 5                   
+ Goa                 Freq --> 4                     Egypt               Freq --> 5                   
+ Japanese            Freq --> 3                     Austrian Alps       Freq --> 4                   
+ Europe              Freq --> 2                     Argentina           Freq --> 4                   
+ Las Vegas           Freq --> 2                     Segovia             Freq --> 3                   
+ Northern Ireland    Freq --> 2                     Tirol               Freq --> 3                   
+ Lithuania           Freq --> 2                     Capri               Freq --> 3                   
+ Japan               Freq --> 2                     Korea               Freq --> 2                   
+ Costa Rica          Freq --> 2                     Innsbruck           Freq --> 2                   
+ Belfast             Freq --> 2                     Amalfi              Freq --> 2                   
+ Puerto Viejo        Freq --> 2                     Kaesong             Freq --> 2                   
+ Spain               Freq --> 2                     Giza                Freq --> 2                   
+ Australia           Freq --> 1                     Persia              Freq --> 2                   
+ Windsock            Freq --> 1                     Italy               Freq --> 2                   
+ Paris               Freq --> 1                     Leitrim             Freq --> 1                   
+ Durbanville         Freq --> 1                     Columbia            Freq --> 1                   
